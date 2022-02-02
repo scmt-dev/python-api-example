@@ -41,3 +41,45 @@ https://realpython.com/api-integration-in-python/
 
 ## get body data from client post and put 
 https://stackabuse.com/how-to-get-and-parse-http-post-body-in-flask-json-and-form-data/
+
+
+## docker
+```bash
+# start
+docker-compose up -d
+
+# stop
+docker-compose down
+
+
+```
+## open php myadmin
+http://localhost:8080/
+
+```bash
+
+host: db
+username: root
+password: test
+
+```
+
+## python connect marai db
+https://hevodata.com/learn/python-mariadb/
+
+https://www.digitalocean.com/community/tutorials/how-to-store-and-retrieve-data-in-mariadb-using-python-on-ubuntu-18-04
+
+## flask rest api 
+https://www.developersoapbox.com/basic-rest-api-using-flask-and-mysql-get/
+
+ multi route file
+ https://tipsfordev.com/how-to-divide-flask-app-into-multiple-py-files
+
+
+## JWT
+ https://flask-jwt-extended.readthedocs.io/en/stable/basic_usage/
+
+ ## xample login jwt
+ https://www.geeksforgeeks.org/using-jwt-for-user-authentication-in-flask/
+
+ https://www.datasciencelearner.com/flask-token-based-authentication-secure-api/

@@ -83,3 +83,15 @@ https://www.developersoapbox.com/basic-rest-api-using-flask-and-mysql-get/
  https://www.geeksforgeeks.org/using-jwt-for-user-authentication-in-flask/
 
  https://www.datasciencelearner.com/flask-token-based-authentication-secure-api/
+
+
+ ## fro graphql
+ pip install ariadne, uvicorn, flask, flask-sqlalchemy, flask-migrate
+
+ https://blog.logrocket.com/build-graphql-api-python-flask-ariadne/
+
+
+
+https://blog.sethcorker.com/how-to-create-a-react-flask-graphql-project/
+
+ https://github.com/Darth-Knoppix/flask-graphql-react
